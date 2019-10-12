@@ -1,0 +1,36 @@
+{
+    "rides": [
+      {
+        "date": 1570616079,
+        "CRN": "7353574588",
+        "source": "2560, 25th C Main Road, 1st Sector, HSR Layout, Bangalore - 540045",
+        "destination": "Zenrays Technologies Koramangala 4th Block Bangalore",
+        "status": "cancelled",
+        "driver_photo": "https://cdn.imgbin.com/10/15/20/imgbin-social-media-computer-icons-avatar-user-internet-social-media-wFbdDxGYhL8MQmdv06BK6Ubqz.jpg"
+      },
+      {
+        "date": 1570616079,
+        "CRN": "7353574588",
+        "source": "2560, 25th C Main Road, 1st Sector, HSR Layout, Bangalore - 540045",
+        "destination": "Zenrays Technologies Koramangala 4th Block Bangalore",
+        "status": "cancelled",
+        "driver_photo": "https://cdn.imgbin.com/10/15/20/imgbin-social-media-computer-icons-avatar-user-internet-social-media-wFbdDxGYhL8MQmdv06BK6Ubqz.jpg"
+      },
+      {
+        "date": 1570616079,
+        "CRN": "7353574588",
+        "source": "2560, 25th C Main Road, 1st Sector, HSR Layout, Bangalore - 540045",
+        "destination": "Zenrays Technologies Koramangala 4th Block Bangalore",
+        "status": "cancelled",
+        "driver_photo": "https://cdn.imgbin.com/10/15/20/imgbin-social-media-computer-icons-avatar-user-internet-social-media-wFbdDxGYhL8MQmdv06BK6Ubqz.jpg"
+      },
+      {
+        "date": 1570616079,
+        "CRN": "7353574588",
+        "source": "2560, 25th C Main Road, 1st Sector, HSR Layout, Bangalore - 540045",
+        "destination": "Zenrays Technologies Koramangala 4th Block Bangalore",
+        "status": "cancelled",
+        "driver_photo": "https://cdn.imgbin.com/10/15/20/imgbin-social-media-computer-icons-avatar-user-internet-social-media-wFbdDxGYhL8MQmdv06BK6Ubqz.jpg"
+      }
+    ]
+  }
